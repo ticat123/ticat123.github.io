@@ -1,2 +1,2 @@
 # ticat123.github.io
-Record work about LoongArch.
+Record works about LoongArch-toolchain.
